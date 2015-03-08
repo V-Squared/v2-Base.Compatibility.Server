@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{"system:/php/web/php56_apache2":{"ram":256,"variables":{},"options":{}}},"default":"system:/php/web/php56_apache2"},"builders":{"configs":{}},"type":"php","attributes":{"language":["php"]}}
